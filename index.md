@@ -5,16 +5,16 @@ kernelspec:
 
 # About this Site
 
-Welcome to the course website for Computer Systems and Programming Tools in Spring 2025.
+Welcome to the course website for Computer Systems and Programming Tools in Spring 2026.
 
 ::::{warning}
-For fall 2025, I have changed the tool that builds this site, I *think* I fixed all the edits necessary, but there could be some things that look funny. 
+In Fall 2025, I have changed the tool that builds this site, I *think* I fixed all the edits necessary, but there could still be a few errors left that no one caught last semester. 
 
 If you find one, create an [issue](https://github.com/compsys-progtools/spring2026/issues)
 :::::
 
 (location)=
-This class meets TuTh 12:30PM - 1:45PM in Library 166 and lab on Monday 3:00PM - 4:45PM in Ballentine Hall 114. 
+This class meets TuTh 12:30PM - 1:45PM in Ranger 302 and lab on Monday 3:00PM - 4:45PM in Ranger 202 
 
 This website will contain the syllabus, class notes, and other reference material for the class. Links on the site can contain a lot of detail like for example, you can view the [class schedule by hovering here](#classschedule) or the [tentative lab schedule](#labschedule). 
 
@@ -78,13 +78,8 @@ Both notes and assignment pages will have hints from time to time. Pay attention
 Special tips will be formatted like this
 ```
 
-```{exercise}  Check your Comprehension
-:class: dropdown
-
-Questions to use to check your comprehension will look like this
-```
 
 ```{tip} ⚓ Contribute
 
-Chances to earn community badges will be marked like this
+Chances to earn community badges will be marked like this with the ⚓ emoji
 ```
