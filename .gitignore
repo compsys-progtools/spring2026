@@ -1,0 +1,15 @@
+*/*.ipynb_checkpoints/
+_build/
+
+*/*.ipynb
+.DS_Store
+
+activities/*-files.md
+_data/*.txt
+
+kwl.csv
+
+Terminal-*
+questions.md
+
+.vscode

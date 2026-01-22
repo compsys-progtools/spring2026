@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pyppeteer
+pandas
+lxml
+mystmd
+jupyter-server
+seaborn
+sphinx-panels
+plotly
+ipykernel

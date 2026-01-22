@@ -1,0 +1,28 @@
+date,keyword,conceptual,practical,social,activity
+2025-09-04,intro,"what is a system,why study tools",GitHub basics,class intros,"create kwl repo in github, navigate github.com basics"
+2025-09-09,logistics,github flow with issues,syllabus,working together and building common vocab,"set up to work offline together, create a folder"
+2025-09-11,terminal start,"git structure,paths and file system","bash path navigation,git terminal authentication",why developers work differently than casual users,navigate files and clone a repo locally
+2025-09-16,gitoffline,git branches,"github flow offline,resolving merge conflicts","communication is important,git can help fix misunderstandings and save effort","make a branch locally,create and fix merge conflicts"
+2025-09-18,why terminal,"computing mental model,paths and file structure","bash navigation,tab completion","collaboration requires shared language,shared convention and standards help get people up to speed faster",work with bash and recover from a mistake with git
+2025-09-23,commit,"what a commit is,what the parts of a commit are",git plumbing commands,"commits are signed,commit messages are for people",inspect a commit in detail
+2025-09-25,documentation,"build,automation,modularity,pattern matching,","generate documentation with jupyterbook,gitignore,git init,git remote","main vs master,documentation community",make a jupyterbook
+2025-09-30,unix philosophy,"unix philosophy,debugging strategies","decision making for branches,review cspt","social advantages of shared mental model,different target users impact on design",discussion with minor code examples
+2025-10-02,git structure,"what is a file system,how does git keep track of versions","find in bash,seeing git config,plumbing/porcelain commands","git workflows are conventions,git can be used different ways for different types of teams,two sets of ""rules""",examine git from multiple definitions and inspect objects
+2025-10-07,git internals,"pointers,design and abstraction,intermediate stages in git,what is the staging area","inspecting git objects,when hashes are unique or the same",conventions vs requirements,create a commit using plumbing commands
+2025-10-09,git references,"pointers,git branches and tags","git branches, advanced fixing,semver and conventional commits,git tags,code releases","advantages of data that is both human and machine readable,social disadvantages of computational efficiency",make a tag and release
+2025-10-14,numbers,"hashes,number systems","git commit numbers,manual hashing with git",number  systems are derived in culture,discussion and use hashing algorithm
+2025-10-16,bash scripting,"bash is a programming language,official docs,scripting/interactive","script files,man pages,bash variables,bash loops,bash conditionals,gh CLI",using automation to make collaboration easier,build a bash script that calculates a grade
+2025-10-21,IDE,IDE parts,compare and contrast IDEs,"collaboraiton features,developer communities",discussions and sharing IDE tips
+2025-10-23,server use,"ssh keys,hpc system strucutre","ssh keys,interactive,slurm",social aspects of passwords and security,configure and use ssh keys on a hpc
+2025-10-28,building,building C code,"ssh keys,gcc compiler","file extensions are for people,when vocabulary is imprecise",build code in C and examine intermediate outputs
+2025-10-30,hardwar,von neuman architecture,reading a basic assembly language,historical context of computer architecures,use a hardware simulator to see step by step of a simple program
+2025-11-04,floats,float representation,floats do not equal themselves,"social processes around standard developents,standards are for people",work with float representation through fractions in Python
+2025-11-06,bitwise operation,"what is a bit,what is a register,how to break larger calculations down",how an ALU works,tech interviews look for obscure details sometimes,derive addition from basic logic operations
+2025-11-13,architecture,"physical gates,history",interpretting specs,social context influences technology,discussion
+2025-11-18,timing,"timing,control unit,threading",threaded program with a race condition,different times matter in different cases,write a threaded program and fix a race condition
+2025-11-20,memory,"different type of memory,different abstractions",working with large data,privacy/respect for data,large data that has to be read in batches
+2025-11-25,abstraction,"general abstraction,design patterns",general techniques for understanding new systems in CS,shared abstractions help us collaborate,"find examples of abstraction,stress test abstractions"
+2025-11-27,programming languages,"types of PLs,what is PL studying",choosing a language for a project,usability depends on prior experience,discussion or independent research
+2025-12-02,review,all,end of semester logistics,group work final,"review quiz,integration/reflection questions"
+2025-12-04,,,,,
+
