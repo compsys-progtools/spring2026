@@ -48,7 +48,7 @@ commit
 :  the basic unit of git
 
 commit message
-:  the plain language description that is required, entered with the `-m` option on `git commit`
+:  the plain language description that is required for a {term}`commit`, entered with the `-m` option on `git commit`
 
 compiled code
 :  code that is put through a compiler to turn it into lower level assemlby language before it is executed. must be compiled and re-executed everytime you make a change.

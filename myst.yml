@@ -32,7 +32,7 @@ project:
         - file: syllabus/communication.md
     - title: Notes
       children:
-        - pattern: 'notes/2025-*.md'
+        - pattern: 'notes/2026-*.md'
     - title: Activities
       children:
         - file: activities/kwl.md

@@ -14,3 +14,11 @@ the day's material in a similar, but distinct way. They represent the minimum ba
 Badges will be posted as issues and instructions will be here as well. 
 ::::
 
+
+## 2026-01-22
+
+[related notes](../notes/2026-01-22)
+
+Activities:
+```{include} ../_practice/2026-01-22.md
+```
