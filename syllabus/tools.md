@@ -87,9 +87,9 @@ to write code from scratch in specific languages, but we will rely on programmin
 environments to apply concepts.
 ```
 
-### Requirements:
-- Python with scientific computing packages (numpy, scipy, jupyter, pandas, seaborn, sklearn)
-- a C compiler
+### General Requirements:
+
+#### Week 2& on
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - access to a bash {term}`shell`
 - A high compatibility web browser (Safari will sometimes fail; Google Chrome and Microsoft Edge will; Firefox probably will)
@@ -97,16 +97,87 @@ environments to apply concepts.
 - one IDE with {term}`git` support (default or via extension)
 - [the GitHub CLI](https://github.com/cli/cli#installation) on all OSs
 
+#### Later in the semester
+::::{attention}
+Work arounds for these are available
+:::::
+- Python with scientific computing packages (numpy, scipy, jupyter, pandas, seaborn, sklearn)
+- a C compiler
 
-### Recommendation
+### Recommended Install Process
 
-:::{warning}
+::::{warning}
 some of the video links may not work, if any are broken please make an issue, for a community badge
 ::::
 
-````{tab-set}
+#### Git & Bash
 
-```{tab-item} Windows- option A
+::::::{tab-set}
+
+:::{tab-item} Windows 
+
+
+- Git and Bash with [GitBash](https://gitforwindows.org/) ([video instructions](https://youtu.be/339AEqk9c-8)). 
+- [the GitHub CLI](https://github.com/cli/cli#installation)
+:::
+
+:::{tab-item} Windows - WSL
+
+- Make sure you have bash as an available shell (typically available by default)
+- install [git](https://git-scm.com/install/linux) or check that your version is up to date
+- [the GitHub CLI](https://github.com/cli/cli#installation)
+
+
+:::
+
+:::{tab-item} MacOS
+Video install instructions for Anaconda:
+
+- **recommended** install [homebrew](https://brew.sh/)
+- **recommended** update bash, to a version >5 
+- it is okay to use `zsh` instead, but I will teach up to date bash.  the differences are small
+- install [git](https://git-scm.com/install/mac) (will also recommend using homebrew) and make sure you have an up to date version
+- install [the GitHub CLI](https://github.com/cli/cli#installation)
+
+
+:::
+
+
+:::{tab-item} Linux
+
+- install [git](https://git-scm.com/install/linux)
+- install [the GitHub CLI](https://github.com/cli/cli#installation)
+
+:::
+
+
+
+:::{tab-item} Chrome OS
+**may need update,** 
+1. Find Linux (Beta) in your settings and turn that on.
+2. Once the download finishes a Linux {term}`terminal` will open, then enter the commands: `sudo
+apt-get update` and `sudo apt-get upgrade`. These commands will ensure you are up to
+date.
+1. Install tmux with:
+
+    ```
+    sudo apt -t stretch-backports install tmux
+    ```
+- install [git](https://git-scm.com/install/linux)
+- install [the GitHub CLI](https://github.com/cli/cli#installation)
+
+
+:::
+::::::::: 
+
+
+#### Python
+
+
+
+::::::{tab-set}
+
+:::{tab-item} Windows 
 
 - If you will not do any side projects, install python via [Anaconda](https://www.anaconda.com/products/individual) [video install ](https://www.youtube.com/watch?v=xxQ0mzZ8UvA) 
 - Otherwise, use the [base python installer](https://www.python.org/downloads/) and then install libraries with pip 
@@ -114,7 +185,7 @@ some of the video links may not work, if any are broken please make an issue, fo
 - Git and Bash with [GitBash](https://gitforwindows.org/) ([video instructions](https://youtu.be/339AEqk9c-8)). 
 ```
 
-```{tab-item} Windows - option B
+:::{tab-item} Windows - option B
 
 Create a [bootable usb stick with Linux](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview)
 
@@ -122,9 +193,9 @@ or use [windows subsystem for linux](https://ubuntu.com/tutorials/install-ubuntu
 
 and then follow linux instructions
 
-```
+:::
 
-```{tab-item} MacOS
+:::{tab-item} MacOS
 Video install instructions for Anaconda:
 - Install python via [Anaconda](https://www.anaconda.com/products/individual) [video](https://www.youtube.com/watch?v=TcSAln46u9U)
 - install Git with the Xcode Command Line Tools. On Mavericks (10.9) or above you can do this by trying to run {term}`git` from the Terminal the very first time.`git --version`
@@ -132,19 +203,19 @@ Video install instructions for Anaconda:
 On Mac,  to install python via environment, [this article may be helpful](https://opensource.com/article/19/5/python-3-default-mac)
 
 
-```
+:::
 
 
-```{tab-item} Linux
-**needs update** 
+:::{tab-item} Linux
+**needs update, but no students have indicated they need it currently** 
 - Install python via [Anaconda](https://www.anaconda.com/products/individual)
 
-```
+:::
 
 
 
-```{tab-item} Chrome OS
-**needs update** 
+:::{tab-item} Chrome OS
+**may need update** 
 1. Find Linux (Beta) in your settings and turn that on.
 2. Once the download finishes a Linux {term}`terminal` will open, then enter the commands: `sudo
 apt-get update` and `sudo apt-get upgrade`. These commands will ensure you are up to
@@ -178,12 +249,16 @@ type the source .bashrc command.
 1.  Next, use the `jupyter notebook –generate-config` command to generate a Jupyter
 Notebook.
 1.  Then type `jupyter lab` and a Jupyter Notebook should open up.
-```
-````
+:::
+::::::::: 
+
+
+
 <!-- (texteditor)=
 
 ````
-- Text Editor: you may want a text editor outside of the Jupyter environment. Jupyter can edit markdown files (that you'll need for your portfolio), in browser, but it is more common to use a text editor like Atom or Sublime for this purpose. -->
+- Text Editor: you may want a text editor outside of the Jupyter environment. Jupyter can edit markdown files (that you'll need for your portfolio), in browser, but it is more common to use a text editor like Atom or Sublime for this purpose.
+-->
 
 
 
