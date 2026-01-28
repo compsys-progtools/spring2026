@@ -413,6 +413,7 @@ Do you need to get correct answers on lab tasks?
 ::::{solution} labcorrect
 :class:  dropdown
 
+No, you do not need to get correct answers on all lab tasks.  You need to be able to answer a few key questions during your lab checkout conversation.  However, you can get full credit even if some of your answers are wrong.  Work that neds to be correct will be in a badge, that you might get lab time to work on. 
 ::::
 
 
