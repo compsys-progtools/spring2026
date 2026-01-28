@@ -136,7 +136,7 @@ Video install instructions for Anaconda:
 - **recommended** install [homebrew](https://brew.sh/)
 - **recommended** update bash, to a version >5 
 - it is okay to use `zsh` instead, but I will teach up to date bash.  the differences are small
-- install [git](https://git-scm.com/install/mac) (will also recommend using homebrew) and make sure you have an up to date version
+- install [git](https://git-scm.com/install/mac) (has a homebrew option and an Xcode option) and make sure you have an up to date version
 - install [the GitHub CLI](https://github.com/cli/cli#installation)
 
 
@@ -179,10 +179,9 @@ date.
 
 :::{tab-item} Windows 
 
-- If you will not do any side projects, install python via [Anaconda](https://www.anaconda.com/products/individual) [video install ](https://www.youtube.com/watch?v=xxQ0mzZ8UvA) 
+- If you will not do **any** side projects, install python via [Anaconda](https://www.anaconda.com/products/individual) [video install ](https://www.youtube.com/watch?v=xxQ0mzZ8UvA) 
 - Otherwise, use the [base python installer](https://www.python.org/downloads/) and then install libraries with pip 
 
-- Git and Bash with [GitBash](https://gitforwindows.org/) ([video instructions](https://youtu.be/339AEqk9c-8)). 
 ```
 
 :::{tab-item} Windows - option B
@@ -197,7 +196,8 @@ and then follow linux instructions
 
 :::{tab-item} MacOS
 Video install instructions for Anaconda:
-- Install python via [Anaconda](https://www.anaconda.com/products/individual) [video](https://www.youtube.com/watch?v=TcSAln46u9U)
+- If you will not do **any** side projects, install python via [Anaconda](https://www.anaconda.com/products/individual) [video](https://www.youtube.com/watch?v=TcSAln46u9U)
+- Otherwise, use the [base python installer](https://www.python.org/downloads/) and then install libraries with pip 
 - install Git with the Xcode Command Line Tools. On Mavericks (10.9) or above you can do this by trying to run {term}`git` from the Terminal the very first time.`git --version`
 
 On Mac,  to install python via environment, [this article may be helpful](https://opensource.com/article/19/5/python-3-default-mac)
