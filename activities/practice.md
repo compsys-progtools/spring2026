@@ -22,3 +22,11 @@ Badges will be posted as issues and instructions will be here as well.
 Activities:
 ```{include} ../_practice/2026-01-22.md
 ```
+
+## 2026-01-27
+
+[related notes](../notes/2026-01-27)
+
+Activities:
+```{include} ../_practice/2026-01-27.md
+```

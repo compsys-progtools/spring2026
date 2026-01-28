@@ -38,3 +38,11 @@ Badges will be posted as issues and instructions will be here as well.
 Activities:
 ```{include} ../_prepare/2026-01-27.md
 ```
+
+## 2026-01-29
+
+[related notes](../notes/2026-01-29)
+
+Activities:
+```{include} ../_prepare/2026-01-29.md
+```
