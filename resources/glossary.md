@@ -179,7 +179,7 @@ one's complement
 
 option
 :  also known as a flag,
-:  a parameter to a command line program that change its behavior, different from an argument
+:  a non-required parameter to a command line program that change its behavior, different from an argument
 
 parent
 :  (in git) the commit that came before the cuurent commit
