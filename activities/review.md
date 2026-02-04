@@ -37,3 +37,10 @@ Activities:
 Activities:
 ```{include} ../_review/2026-01-29.md
 ```
+## 2026-02-03
+
+[related notes](../notes/2026-02-03)
+
+Activities:
+```{include} ../_review/2026-02-03.md
+```
