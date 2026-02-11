@@ -54,10 +54,13 @@ put this on a {term}`branch` called `watch_community_badge` and title your PR "C
 
 ::::::{csv-table} Hours
 Day,Time,Location,Host
-TBA, TBA, Tyler 134, Dr Brown
-TBA, TBA, Zoom, Dr Brown
-TBA, TBA, TBA, Nathan
-TBA, TBA, TBA, Zack
+Tues, 2-2:45, Tyler 134, Dr Brown
+Thu, 2-2:45, Tyler 134, Dr Brown
+Monday, 1-3, Tyler 139, Nathan
+::::::
+
+::::{attention}
+1:1 Zoom appointments may be requested from the course organization page
 ::::::
 
 <!-- ```{code-cell}
