@@ -109,3 +109,10 @@ Activities:
 Activities:
 ```{include} ../_prepare/2026-03-05.md
 ```
+## 2026-03-10
+
+[related notes](../notes/2026-03-10)
+
+Activities:
+```{include} ../_prepare/2026-03-10.md
+```
