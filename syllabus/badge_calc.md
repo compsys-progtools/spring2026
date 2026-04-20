@@ -75,16 +75,16 @@ the grade plans on the grading page and the thresholds above assume you earn the
     - Influence
     - type
 *   - Participation
-    - 22 experience badges
-    - 18
+    - {eval}`grade_constants.exp_thresh` experience badges
+    - {eval}`grade_constants.bonus_participation`
     - auto
 *   - Lab
-    - 12 lab checkouts
-    - 18
+    - {eval}`grade_constants.lab_thresh` lab checkouts
+    - {eval}`grade_constants.bonus_lab`
     - auto
 *   - Breadth
-    - If review + practice badges >=18:
-    - 32
+    - If review + practice badges >={eval}`grade_constants.rp_thresh`:
+    - {eval}`grade_constants.bonus_breadth`
     - auto
 *   - Git-ing unstuck 
     - fix large mistakes your repo using advanced git operations and submit a short reflection (allowable twice; instructor must approve)
