@@ -135,3 +135,94 @@ Activities:
 Activities:
 ```{include} ../_review/2026-03-31.md
 ```
+## 2026-04-02
+
+[related notes](../notes/2026-04-02)
+
+Activities:
+```{include} ../_review/2026-04-02.md
+```
+## 2026-04-07
+
+[related notes](../notes/2026-04-07)
+
+Activities:
+```{include} ../_review/2026-04-07.md
+```
+## 2026-04-09
+
+[related notes](../notes/2026-04-09)
+
+Activities:
+```{include} ../_review/2026-04-09.md
+```
+## 2026-04-16
+
+[related notes](../notes/2026-04-16)
+
+Activities:
+```{include} ../_review/2026-04-16.md
+```
+## 2026-04-16
+
+[related notes](../notes/2026-04-16)
+
+Activities:
+```{include} ../_review/2026-04-16.md
+```
+## 2026-04-16
+
+[related notes](../notes/2026-04-16)
+
+Activities:
+```{include} ../_review/2026-04-16.md
+```
+## 2026-04-16
+
+[related notes](../notes/2026-04-16)
+
+Activities:
+```{include} ../_review/2026-04-16.md
+```
+## 2026-04-16
+
+[related notes](../notes/2026-04-16)
+
+Activities:
+```{include} ../_review/2026-04-16.md
+```
+## 2026-04-23
+
+[related notes](../notes/2026-04-23)
+
+Activities:
+```{include} ../_review/2026-04-23.md
+```
+## 2026-04-16
+
+[related notes](../notes/2026-04-16)
+
+Activities:
+```{include} ../_review/2026-04-16.md
+```
+## 2026-04-21
+
+[related notes](../notes/2026-04-21)
+
+Activities:
+```{include} ../_review/2026-04-21.md
+```
+## 2026-04-14
+
+[related notes](../notes/2026-04-14)
+
+Activities:
+```{include} ../_review/2026-04-14.md
+```
+## 2026-04-16
+
+[related notes](../notes/2026-04-16)
+
+Activities:
+```{include} ../_review/2026-04-16.md
+```

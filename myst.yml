@@ -60,12 +60,12 @@ project:
         - file: resources/windows.md
     - file: genindex.md
   abbreviations:
-    - CPU: Central Processing Unit
-    - IDE: Integrated Development Environment
-    - URI: University of Rhode Island
-    - TA: Teaching Assistant
-    - PR: Pull Request 
-    - ACM: Association for Computing Machinery
+    CPU: Central Processing Unit
+    IDE: Integrated Development Environment
+    URI: University of Rhode Island
+    TA: Teaching Assistantgh 
+    PR: Pull Request 
+    ACM: Association for Computing Machinery
   numbering:
     code: true
     math: false

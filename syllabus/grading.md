@@ -1,7 +1,7 @@
 ---
 kernelspec:
-    name: python3
-    display_name: Python3
+   name: python3
+   display_name: python3
 ---
 
 

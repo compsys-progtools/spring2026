@@ -1,6 +1,7 @@
 ---
 kernelspec:
   name: python3
+  diplay_name: python 3
 ---
 
 # About this Site
